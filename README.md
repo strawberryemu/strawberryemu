@@ -36,6 +36,14 @@
 ###
 
 <p align="center">
+To see a World in a Grain of Sand <br />
+  And a Heaven in a Wild Flower, <br />
+Hold Infinity in the palm of your hand <br />
+  And Eternity in an hour. <br />
+</p>
+
+
+<p align="center">
   <a href="https://mizukana.atabook.org/">ᵃᵗᵃᵇᵒᵒᵏ</a>
   <a href="https://kyrapipi.straw.page/">ˢᵗʳᵃʷᵖᵃᵍᵉ</a>
 </p>
